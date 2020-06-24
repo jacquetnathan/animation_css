@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+body button{
+    margin-top: 300px;
+    font-size: larger;
+    font-weight: 600;
+    padding: 15px;
+    background-color: black;
+    color: white;
+    border: 5px solid white;
+}
+body button:hover{
+    background-color: white;
+    color: black;
+}
